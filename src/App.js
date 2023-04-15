@@ -1,10 +1,10 @@
 
 import './App.css';
-import Header from './componets/Header.jsx';
+import Header from './componets/Header.js';
 import{BrowserRouter, Routes, Route} from 'react-router-dom';
-import Matochnoe from './componets/Matochnoe.jsx';
-import Machen from './componets/Machen.jsx';
-import Menu from './componets/Menu.jsx';
+import Matochnoe from './componets/Matochnoe.js';
+import Machen from './componets/Machen.js';
+import Menu from './componets/Menu.js';
 import Section from './componets/Section';
 import Div from './componets/Div';
 import Bullsown from './componets/Bullsown';
